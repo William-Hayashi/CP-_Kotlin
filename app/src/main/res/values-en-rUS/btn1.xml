@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CP2</string>
+    <string name="btn3">Send Tasks</string>
+    <string name="FormsRes">Responsible Person Name</string>
+    <string name="FormTarefa">Task</string>
+    <string name="SpinnerPrioridade">Priority</string>
+
+
+    <string name="NameTitle">NAME</string>
+    <string name="TaskTitle">TASK</string>
+    <string name="PriorityTitle">PRIORITY</string>
+
+    <string name="TextUser">Username</string>
+    <string name="TextPassword">Password</string>
+    <string name="btnLogin">LOGIN</string>
+
+
+
+</resources>

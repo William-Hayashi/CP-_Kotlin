@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CP2</string>
+    <string name="btn3">Enviar tarefas</string>
+    <string name="FormsRes">Nome do responsável</string>
+    <string name="FormTarefa">Tarefa</string>
+    <string name="SpinnerPrioridade">Prioridade</string>
+
+    <string name="NameTitle">NOME</string>
+    <string name="TaskTitle">TAREFA</string>
+    <string name="PriorityTitle">PRIORIDADE</string>
+
+    <string name="TextUser">Usuário</string>
+    <string name="TextPassword">Senha</string>
+    <string name="btnLogin">LOGIN</string>
+
+
+</resources>
