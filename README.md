@@ -1,5 +1,5 @@
 ## Challenge De Kotlin - CP2
 
-### INtegrantes
+### Integrantes
 - Wlliam Kenzo Hayashi - RM552659
 - Deyckson Resende - RM 553607
