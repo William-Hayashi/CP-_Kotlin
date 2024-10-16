@@ -1,4 +1,4 @@
-##Challenge De Kotlin - CP2
+## Challenge De Kotlin - CP2
 
 ### INtegrantes
 - Wlliam Kenzo Hayashi - RM552659
